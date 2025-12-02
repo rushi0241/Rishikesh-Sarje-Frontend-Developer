@@ -74,6 +74,7 @@ npm test
 
 ### Deployment & submission
 
+- **GitHub repository**: [`Rishikesh-Sarje-Frontend-Developer`](https://github.com/rushi0241/Rishikesh-Sarje-Frontend-Developer)
 - **Live demo**: _add your Vercel / Netlify URL here_
 - **Demo video**: _add your screen‑recording URL here_
 
